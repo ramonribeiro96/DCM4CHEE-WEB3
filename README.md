@@ -7,7 +7,7 @@ OpenJDK 7, JAVA JDK 5 ou superior.  <br/>
 1024 MB de RAM<br/>
 500 MB de espaço no disco rígido (Para instalação do DCM4CHEE).<br/>
 O espaço de armazenamento de Imagens(DICOM) depende da demanda de cada um.<br/>
-CPU de 1.8 GHz<br/>
+CPU de 1.2 GHz<br/>
 
 -----------
 Bancos de dados suportados:<p/>
