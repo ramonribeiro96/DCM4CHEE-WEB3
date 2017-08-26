@@ -20,6 +20,6 @@ Firebird 2.1 ou Superior <br/>
 
 -------------
 OBS:<p/>
-Não utilize o JBoss 5 ou Superior, porque está completamente re-arquitetado e é significativamente diferente do código do JBoss 4.2.<br/>
+Não utilize o JBoss 5 ou Superior, porque está completamente re-arquitetado e é diferente do código do JBoss 4.2.<br/>
 Caso queira usar JDK 5, não faça o download do JBoss para JDK 6 (jboss-4.2.3.GA-jdk6.zip) - use jboss-4.2.3.GA.zip.<br/>
 Dcm4chee requer Java Development Kit(JDK) e não apenas o Java Runtime Environment (JRE).<br/>
