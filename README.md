@@ -1,5 +1,5 @@
-# DCM4CHEE
-Instalação do DCM4CHEE (2.18.3-mysql) em DEBIAN 8
+# DCM4CHEE-WEB3
+Instalação do DCM4CHEE_WEB3 (2.18.3-mysql) em DEBIAN 8
 
 ----------
 Requisitos Mínimos do Sistema(Minhas recomendações):<p/>
